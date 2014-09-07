@@ -1,0 +1,5 @@
+name: common_regex
+version: 1.0.1
+author: Jeremy Schroeder <jeremy@ssdbg.com>
+description: A Dart port of CommonRegex
+homepage: http://www.github.com/aufdemrand/
